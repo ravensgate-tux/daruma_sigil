@@ -3,7 +3,7 @@
 _Hail Eris! 🍏_
 
 <div align="right">
-<img src="daruma_black.jpg" width="200"><br>
+<img src="daruma_black.jpg" width="150"><br>
 </div>
 
 Daruma (達磨) are traditional Japanese “wish” dolls. You color one eye when you set an intention and fill in the other when it’s realized. This guide turns a daruma into a **sigil device** that blends Discordian play with practical results.
