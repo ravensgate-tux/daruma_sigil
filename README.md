@@ -12,7 +12,7 @@ Daruma (達磨) are traditional Japanese “wish” dolls. You color one eye whe
 
 ---
 
-## TL;DR (2‑Minute Version)
+## Quick Start (2-Minute Version)
 1. **Intention → Phrase**: Write one present‑tense sentence (e.g., “My book launch goes smoothly”).  
 2. **Make Sigil**: Cross out vowels & repeats → stylize remaining letters into a glyph.  
 3. **Prime the Daruma**: Hold the glyph behind the left eye (physically or imagined).  
