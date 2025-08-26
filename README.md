@@ -1,5 +1,5 @@
 
-# Daruma Sigil — A Discordian Micro‑Ritual　by KSC
+# Daruma Sigil — A Discordian Micro‑Ritual　by　KSC
 _Hail Eris! 🍏_
 
 <div align="right">
