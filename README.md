@@ -129,9 +129,9 @@ A. Yes—one daruma per person, or one giant goal with many mini‑daruma.
 ---
 
 ## Attribution & License
-Copyright © 2025 **YOUR NAME / HANDLE**.  
+Copyright © 2025 **Ravensgate**.  
 Released under **CC BY 4.0**. You may remix and share with attribution.  
-Attribution sample: “Daruma Sigil — A Discordian Micro‑Ritual by YOUR NAME (CC BY 4.0)”
+Attribution sample: “Daruma Sigil — A Discordian Micro‑Ritual by Ravensgate (CC BY 4.0)”
 
 ---
 
