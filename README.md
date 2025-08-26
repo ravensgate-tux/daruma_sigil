@@ -128,12 +128,6 @@ A. Yes—one daruma per person, or one giant goal with many mini‑daruma.
 
 ---
 
-## Files & Templates
-- `/templates/daruma-outline.svg` _(optional placeholder)_  
-- `/examples/readme-walkthrough.md` _(you can add your own logs)_
-
----
-
 ## Attribution & License
 Copyright © 2025 **YOUR NAME / HANDLE**.  
 Released under **CC BY 4.0**. You may remix and share with attribution.  
